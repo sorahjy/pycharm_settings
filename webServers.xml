@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="94736eeb-4614-49a5-9ab6-a5b18e3fbf65" name="sora" url="http://123.206.214.219">
+        <fileTransfer host="123.206.214.219" port="22" privateKey="$USER_HOME$/.ssh/sorahjy_github_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

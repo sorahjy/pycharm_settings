@@ -1,0 +1,13 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <option name="INSTRUMENTATION" value="EXCEPTION" />
+    <option name="LANGUAGE_ANNOTATION" value="org.intellij.lang.annotations.Language" />
+    <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
+    <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
+    <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="SQLite" injector-id="java">
+      <display-name>SQLiteDatabase.execSQL (android.database.sqlite)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("execSQL").withParameters("java.lang.String").definedInClass("android.database.sqlite.SQLiteDatabase"))]]></place>
+    </injection>
+  </component>
+</application>
