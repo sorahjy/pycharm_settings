@@ -54,7 +54,4 @@
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Desktop/github" />
   </component>
-  <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="D:\PackageTracker" />
-  </component>
 </application>
