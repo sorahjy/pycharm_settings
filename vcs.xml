@@ -4,7 +4,7 @@
       <list>
         <UrlAndUserName>
           <option name="url" value="http://github.com" />
-          <option name="userName" value="1131626817@qq.com" />
+          <option name="userName" value="sorahjy@gmail.com" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/googlesamples/android-UniversalMusicPlayer.git" />
@@ -52,6 +52,10 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/Lsdefine/attention-is-all-you-need-keras.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/iambabao/software_engineering_pj.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
