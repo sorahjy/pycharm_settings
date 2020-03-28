@@ -7,6 +7,7 @@
       <mapping ext="tes" type="PLAIN_TEXT" />
       <mapping ext="tra" type="PLAIN_TEXT" />
       <mapping ext="conv" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
