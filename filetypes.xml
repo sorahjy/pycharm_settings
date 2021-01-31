@@ -8,6 +8,7 @@
       <mapping ext="tes" type="PLAIN_TEXT" />
       <mapping ext="conv" type="PLAIN_TEXT" />
       <mapping ext="tra" type="PLAIN_TEXT" />
+      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
