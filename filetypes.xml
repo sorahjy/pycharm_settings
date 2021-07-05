@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern=".bashrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".s.swp" type="PLAIN_TEXT" />
       <mapping pattern="model_new.py" type="PLAIN_TEXT" />
       <mapping ext="jsonnet" type="PLAIN_TEXT" />
       <mapping ext="tes" type="PLAIN_TEXT" />
